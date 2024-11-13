@@ -1,0 +1,15 @@
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\bin\Debug\net6.0\CryptoViewer.Auth_API.deps.json
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\bin\Debug\net6.0\CryptoViewer.Auth_API.runtimeconfig.json
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\bin\Debug\net6.0\CryptoViewer.Auth_API.dll
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\bin\Debug\net6.0\CryptoViewer.Auth_API.pdb
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\CryptoViewer.Auth_API.csproj.AssemblyReference.cache
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\CryptoViewer.Auth_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\CryptoViewer.Auth_API.AssemblyInfoInputs.cache
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\CryptoViewer.Auth_API.AssemblyInfo.cs
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\CryptoViewer.Auth_API.csproj.CoreCompileInputs.cache
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\CryptoViewer.Auth_API.sourcelink.json
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\CryptoViewer.Auth_API.dll
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\refint\CryptoViewer.Auth_API.dll
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\CryptoViewer.Auth_API.pdb
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\CryptoViewer.Auth_API.genruntimeconfig.cache
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.Auth_API\obj\Debug\net6.0\ref\CryptoViewer.Auth_API.dll

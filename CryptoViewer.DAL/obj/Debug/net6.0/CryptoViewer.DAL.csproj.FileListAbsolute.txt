@@ -1,0 +1,13 @@
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\bin\Debug\net6.0\CryptoViewer.DAL.deps.json
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\bin\Debug\net6.0\CryptoViewer.DAL.dll
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\bin\Debug\net6.0\CryptoViewer.DAL.pdb
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\obj\Debug\net6.0\CryptoViewer.DAL.csproj.AssemblyReference.cache
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\obj\Debug\net6.0\CryptoViewer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\obj\Debug\net6.0\CryptoViewer.DAL.AssemblyInfoInputs.cache
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\obj\Debug\net6.0\CryptoViewer.DAL.AssemblyInfo.cs
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\obj\Debug\net6.0\CryptoViewer.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\obj\Debug\net6.0\CryptoViewer.DAL.sourcelink.json
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\obj\Debug\net6.0\CryptoViewer.DAL.dll
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\obj\Debug\net6.0\refint\CryptoViewer.DAL.dll
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\obj\Debug\net6.0\CryptoViewer.DAL.pdb
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.DAL\obj\Debug\net6.0\ref\CryptoViewer.DAL.dll

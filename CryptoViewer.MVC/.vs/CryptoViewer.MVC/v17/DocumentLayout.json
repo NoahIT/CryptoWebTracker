@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\middleware\\sitenotauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:middleware\\sitenotauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\middleware\\siteauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:middleware\\siteauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\helpers\\webcookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:helpers\\webcookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\helpers\\iwebcookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:helpers\\iwebcookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\helpers\\iapihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:helpers\\iapihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\controllers\\trackercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:controllers\\trackercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|c:\\users\\rasci\\storage\\freelancing\\cryptoviewer\\cryptoviewer.mvc\\cryptoviewer.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}|CryptoViewer.MVC.csproj|solutionrelative:cryptoviewer.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:38.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SiteNotAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Middleware\\SiteNotAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Middleware\\SiteNotAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Middleware\\SiteNotAuthorizeAttribute.cs",
+              "RelativeToolTip": "Middleware\\SiteNotAuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:26.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SiteAuthorize.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Middleware\\SiteAuthorize.cs",
+              "RelativeDocumentMoniker": "Middleware\\SiteAuthorize.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Middleware\\SiteAuthorize.cs",
+              "RelativeToolTip": "Middleware\\SiteAuthorize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:25.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebCookie.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Helpers\\WebCookie.cs",
+              "RelativeDocumentMoniker": "Helpers\\WebCookie.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Helpers\\WebCookie.cs",
+              "RelativeToolTip": "Helpers\\WebCookie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:23.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWebCookie.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Helpers\\IWebCookie.cs",
+              "RelativeDocumentMoniker": "Helpers\\IWebCookie.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Helpers\\IWebCookie.cs",
+              "RelativeToolTip": "Helpers\\IWebCookie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:22.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApiHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Helpers\\IApiHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\IApiHelper.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Helpers\\IApiHelper.cs",
+              "RelativeToolTip": "Helpers\\IApiHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:21.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Helpers\\ApiHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\ApiHelper.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Helpers\\ApiHelper.cs",
+              "RelativeToolTip": "Helpers\\ApiHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:20.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrackerController.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Controllers\\TrackerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrackerController.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Controllers\\TrackerController.cs",
+              "RelativeToolTip": "Controllers\\TrackerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:18.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:17.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:15.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChartController.cs",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Controllers\\ChartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChartController.cs",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\Controllers\\ChartController.cs",
+              "RelativeToolTip": "Controllers\\ChartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:18:14.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CryptoViewer.MVC",
+              "DocumentMoniker": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\CryptoViewer.MVC.csproj",
+              "RelativeDocumentMoniker": "CryptoViewer.MVC.csproj",
+              "ToolTip": "C:\\Users\\rasci\\Storage\\Freelancing\\CryptoViewer\\CryptoViewer.MVC\\CryptoViewer.MVC.csproj",
+              "RelativeToolTip": "CryptoViewer.MVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T08:18:09.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

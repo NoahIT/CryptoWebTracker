@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoViewer.MVC", "CryptoViewer.MVC.csproj", "{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoViewer.API", "..\CryptoViewer.API\CryptoViewer.API.csproj", "{2A9B1095-5E7A-4D6A-A7FA-3618FA0CA982}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoViewer.DAL", "..\CryptoViewer.DAL\CryptoViewer.DAL.csproj", "{9B294618-178B-4FAA-8065-B321DD98F795}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoViewer.BL", "..\CryptoViewer.BL\CryptoViewer.BL.csproj", "{598C93D8-0F17-41B6-B4F7-AB90AC84228B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{39AA56D2-C4DF-41FC-A506-40BAE96CB2AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoViewer.Tests", "..\CryptoViewer.Tests\CryptoViewer.Tests.csproj", "{61A6BBB5-A684-471D-B3ED-E06960E9B01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoViewer.Auth_API", "..\CryptoViewer.Auth_API\CryptoViewer.Auth_API.csproj", "{9FE88149-67BC-4B82-AE8E-2ECCE8753E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDC132A-D806-4E4D-B9D6-57270D3ABA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9B1095-5E7A-4D6A-A7FA-3618FA0CA982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9B1095-5E7A-4D6A-A7FA-3618FA0CA982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9B1095-5E7A-4D6A-A7FA-3618FA0CA982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9B1095-5E7A-4D6A-A7FA-3618FA0CA982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B294618-178B-4FAA-8065-B321DD98F795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B294618-178B-4FAA-8065-B321DD98F795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B294618-178B-4FAA-8065-B321DD98F795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B294618-178B-4FAA-8065-B321DD98F795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598C93D8-0F17-41B6-B4F7-AB90AC84228B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598C93D8-0F17-41B6-B4F7-AB90AC84228B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598C93D8-0F17-41B6-B4F7-AB90AC84228B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598C93D8-0F17-41B6-B4F7-AB90AC84228B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A6BBB5-A684-471D-B3ED-E06960E9B01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A6BBB5-A684-471D-B3ED-E06960E9B01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A6BBB5-A684-471D-B3ED-E06960E9B01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A6BBB5-A684-471D-B3ED-E06960E9B01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE88149-67BC-4B82-AE8E-2ECCE8753E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE88149-67BC-4B82-AE8E-2ECCE8753E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE88149-67BC-4B82-AE8E-2ECCE8753E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE88149-67BC-4B82-AE8E-2ECCE8753E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35CE0B0A-E086-4EDE-B8A3-E3065456366E}
+	EndGlobalSection
+EndGlobal

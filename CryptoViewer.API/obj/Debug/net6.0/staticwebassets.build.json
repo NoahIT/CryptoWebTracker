@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7lXQx8ltSpLQYoCtqJ8DhibM+Ekdi4hwfX1upB+eugo=",
+  "Source": "CryptoViewer.API",
+  "BasePath": "_content/CryptoViewer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

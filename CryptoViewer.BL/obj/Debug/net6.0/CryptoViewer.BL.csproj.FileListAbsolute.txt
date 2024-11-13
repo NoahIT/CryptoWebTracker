@@ -1,0 +1,16 @@
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\bin\Debug\net6.0\CryptoViewer.BL.deps.json
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\bin\Debug\net6.0\CryptoViewer.BL.dll
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\bin\Debug\net6.0\CryptoViewer.BL.pdb
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\bin\Debug\net6.0\CryptoViewer.DAL.dll
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\bin\Debug\net6.0\CryptoViewer.DAL.pdb
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\CryptoViewer.BL.csproj.AssemblyReference.cache
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\CryptoViewer.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\CryptoViewer.BL.AssemblyInfoInputs.cache
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\CryptoViewer.BL.AssemblyInfo.cs
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\CryptoViewer.BL.csproj.CoreCompileInputs.cache
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\CryptoViewer.BL.sourcelink.json
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\CryptoVi.B4295E5E.Up2Date
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\CryptoViewer.BL.dll
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\refint\CryptoViewer.BL.dll
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\CryptoViewer.BL.pdb
+C:\Users\rasci\Storage\Freelancing\CryptoViewer\CryptoViewer.BL\obj\Debug\net6.0\ref\CryptoViewer.BL.dll

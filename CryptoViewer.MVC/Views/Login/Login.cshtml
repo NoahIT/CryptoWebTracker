@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<link rel="stylesheet" href="~/css/Authentication/Authentication.css" />
+
+<div class="container-auth">
+    <h2>Login</h2>
+    <form class="auth-form" action="/submit_login" method="POST">
+        <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" id="username" name="Username" required>
+        </div>
+        <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" id="password" name="Password" required>
+        </div>
+        <div class="form-button">
+            <input type="submit" value="Login">
+        </div>
+    </form>
+</div>
+
